@@ -2,9 +2,6 @@
 
 First public release of **Five Pieces of Stones**.
 
-## Version
-**v1.0.0**
-
 ## Download
 Download `FPS.zip`, extract the ZIP file, and run `FPS.exe`.
 
